@@ -158,7 +158,7 @@ section#info {
 
 #mountain-vector {
     width: 200px;
-    align-self: center;
+    align-self: center !important;
 }
 
 @media screen and (max-width: 60em) {
